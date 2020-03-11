@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  BookManager.cpp
+  Books.cpp
+  CppCLIBasic.cpp
+  Generating Code...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  CppCLIBasic.vcxproj -> D:\Phoenix\Training\BasicTestProject\CppCLIBasic\Debug\CppCLIBasic.exe
+  CppCLIBasic.vcxproj -> D:\Phoenix\Training\BasicTestProject\CppCLIBasic\Debug\CppCLIBasic.pdb (Partial PDB)
